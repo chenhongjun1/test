@@ -1,3 +1,3 @@
 Class Hello{
-    privat String name;
+     privat String password;
 }
