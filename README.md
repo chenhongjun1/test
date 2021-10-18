@@ -1,23 +1,6 @@
-链接:https://pan.baidu.com/s/1G4uDBA2aK90aVeUYXCNi9w 
- 密码:z3bd
-链接:https://pan.baidu.com/s/1w8ZWg7lkJRaaan4HnMkNFg 
- 密码:pvyx
- 链接:https://pan.baidu.com/s/1JjAdrMmpfk1soFL0BgCi_w 
- 密码:77d5
-链接:https://pan.baidu.com/s/1e4Dn9yFBd8P_j0tIruGSdQ 
- 密码:w697
-链接:https://pan.baidu.com/s/1cuxYHBQYViYRafMkR2Uv1Q 
- 密码:42z8
-链接:https://pan.baidu.com/s/1LvaAAEUluMo47N6dtnGlHg 
- 密码:o9h6
-链接:https://pan.baidu.com/s/1I003uk0ZRYsmFSpLa5YIfA 
- 密码:z7g1
-链接:https://pan.baidu.com/s/1CctsNjVv1EDmLRo5mcXp6w 
- 密码:fq73
-链接:https://pan.baidu.com/s/1IalT-XzpU46ao6C5HWDs8Q 
- 密码:1fy5
-链接:https://pan.baidu.com/s/1BNuaS7xoHTwvahGzvuVzyA 
- 密码:33y1
-链接:https://pan.baidu.com/s/1yJH6RnyD2OyUgRVBTp71zA 
- 密码:n5lv
+<h1 align="center">Hi 👋, I'm chenhongjun</h1>
+<h3 align="center">JAVA</h3>
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
